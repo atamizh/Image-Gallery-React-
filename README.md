@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Image-Gallery-React-
 A responsive Image Gallery built using React, JavaScript, and CSS. This project features reusable image card components, dynamic rendering using the map() method, and props for passing image data between components. The gallery displays images with titles and descriptions in a clean, responsive grid layout.
 
@@ -32,3 +33,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> 784293b (Update Project)
+=======
+
+>>>>>>> f0fc2eba54b419c10601aa07ab7d9c7d8b581c8b
